@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.azaraks.pidove.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.azaraks.pidove.MyBundle
 
 class MyApplicationService {
 
